@@ -6,6 +6,8 @@ Free Fire Auto Headshot Hack Config
 
 Mastering the **Free Fire auto headshot hack config** can change your game. Players looking to get ahead often tweak settings for better aim and performance. This guide will share key tips for improving your gameplay.
 
+![Free Fire Headshot Hack](https://github.com/magiskmodule/moto/blob/f10720d935258ac0686cc8a1f53ca04349dce6e3/Free%20Fire%20%20Headshot%20Hack.png)
+
 **Free Fire game hacks** are all about fine-tuning your shooting. Done right, they can give you a huge edge in competition. But, you need to know the technical side to use them well.
 
 Starting your advanced **Free Fire auto headshot hack config** journey is exciting. Skilled players know it's not just about changing settings. Each tweak is a choice to boost your accuracy and fight skills.

@@ -20,11 +20,9 @@ Keep your device safe during installation:
 9.  Thats All Now Reboot Device And Enjoy
 10.  Don't Forget to Use Bypass [Video Tutorial AntiBan Bypass](https://www.magiskmodule.com/free-fire-no-recoil-config/)
 
-Knowing your device's compatibility makes setup easier and avoids tech issues.
+![Free Fire Headshot Hack](https://github.com/magiskmodule/moto/blob/f10720d935258ac0686cc8a1f53ca04349dce6e3/Free%20Fire%20%20Headshot%20Hack.png)
 
 Mastering the **Free Fire auto headshot hack config** can change your game. Players looking to get ahead often tweak settings for better aim and performance. This guide will share key tips for improving your gameplay.
-
-![Free Fire Headshot Hack](https://github.com/magiskmodule/moto/blob/f10720d935258ac0686cc8a1f53ca04349dce6e3/Free%20Fire%20%20Headshot%20Hack.png)
 
 **Free Fire game hacks** are all about fine-tuning your shooting. Done right, they can give you a huge edge in competition. But, you need to know the technical side to use them well.
 

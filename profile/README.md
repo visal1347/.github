@@ -1,7 +1,7 @@
 Free Fire Headshot Hack Config Main ID Safe
 ===================================
 
-[Download Config](https://www.magiskmodule.com/category/free-fire-auto-headshot/)
+[Get Config Link](https://www.magiskmodule.com/category/free-fire-auto-headshot/)
 ------------------------------------------------------------------------------------------
 
 How to Setup the config?
@@ -94,7 +94,7 @@ Setting up a **free fire auto headshot hack config** needs careful steps. Player
 
 First, collect all needed resources for your free fire **auto headshot** hack config. Make sure your device is ready and works with the latest game version.
 
-1.  Download the _config file_ from a trusted source
+1.  Get the _config file_ from our website.
 2.  Check if the file is correct and works with **Free Fire Max**
 3.  Turn off your antivirus software for now
 4.  Save a copy of your current game settings

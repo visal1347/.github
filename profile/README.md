@@ -54,7 +54,7 @@ These scripts offer big benefits:
 _Important Note_: While these scripts boost your game, remember they might break game rules. This could lead to serious consequences for your account.
 
 What is Free Fire Auto Headshot?
-==============================
+----------------------------------------------
 
 Gamers looking to improve in Garena Free Fire know precision is key. **Auto headshot** settings are a top strategy for better shooting and more kills.
 

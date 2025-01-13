@@ -1,4 +1,4 @@
-Free Fire Headshot Hack Config
+Free Fire Headshot Hack Config Main ID Safe
 ===================================
 
 [Download Config](https://www.magiskmodule.com/category/free-fire-auto-headshot/)
@@ -18,7 +18,7 @@ Keep your device safe during installation:
 7.  obb
 8.  com.dts.freefireth [Paste Here]
 9.  Thats All Now Reboot Device And Enjoy
-10.  Don't Forget to Use Bypass
+10.  Don't Forget to Use Bypass [Video Tutorial AntiBan Bypass](https://www.magiskmodule.com/free-fire-no-recoil-config/)
 
 Knowing your device's compatibility makes setup easier and avoids tech issues.
 

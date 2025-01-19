@@ -18,7 +18,7 @@ Keep your device safe during installation:
 7.  obb
 8.  com.dts.freefireth [Paste Here]
 9.  Thats All Now Reboot Device And Enjoy
-10.  Don't Forget to Use Bypass [Video Tutorial AntiBan Bypass](https://www.magiskmodule.com/free-fire-no-recoil-config/)
+10. [Video Tutorial](https://www.magiskmodule.com/free-fire-auto-headshot-trick)
 
 ![Free Fire Headshot Hack](https://github.com/magiskmodule/moto/blob/f10720d935258ac0686cc8a1f53ca04349dce6e3/Free%20Fire%20%20Headshot%20Hack.png)
 

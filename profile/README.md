@@ -9,16 +9,17 @@ How to Setup the config?
 
 Keep your device safe during installation:
 
-1.  Extract The Config
-2.  After Extract Open Folder
-3.  Then Copy "com.dts.freefireth" Folder
-4.  Then Go To
-5.  Internal Storage
-6.  Android
-7.  obb
-8.  com.dts.freefireth [Paste Here]
-9.  Thats All Now Reboot Device And Enjoy
-10. [Video Tutorial](https://www.magiskmodule.com/free-fire-auto-headshot-trick)
+1.  Go To GVR App
+2.  Enable All Permissions
+3.  Install Vortex Core From GVR App
+4.  Tap on App List and Select the Free Fire Game
+5.  Tap on Install V-Mods from zip
+6.  Go to Internal Storage
+7.  Selected the zip and Install The Mods
+8.  Tap on Shirox Remastered Mods
+9.  Enable All Features From Active Menu
+10. Tap on Start Game Button to Enjoy Your Game Play
+11. [Video Tutorial](https://www.magiskmodule.com/free-fire-auto-headshot-trick)
 
 ![Free Fire Headshot Hack](https://github.com/magiskmodule/moto/blob/f10720d935258ac0686cc8a1f53ca04349dce6e3/Free%20Fire%20%20Headshot%20Hack.png)
 
